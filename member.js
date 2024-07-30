@@ -1,3 +1,3 @@
 function skillMember() {
-    return 'skillMember';
+    return 'Hola soy un miembro de la clase';
 }
